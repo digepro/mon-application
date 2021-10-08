@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/http//digepro.github.io/mon-application/static/css/main.b2961067.chunk.css",
+    "main.js": "/http//digepro.github.io/mon-application/static/js/main.2e53549b.chunk.js",
+    "main.js.map": "/http//digepro.github.io/mon-application/static/js/main.2e53549b.chunk.js.map",
+    "runtime-main.js": "/http//digepro.github.io/mon-application/static/js/runtime-main.b0ba4f8b.js",
+    "runtime-main.js.map": "/http//digepro.github.io/mon-application/static/js/runtime-main.b0ba4f8b.js.map",
+    "static/css/2.c1256375.chunk.css": "/http//digepro.github.io/mon-application/static/css/2.c1256375.chunk.css",
+    "static/js/2.c91d5018.chunk.js": "/http//digepro.github.io/mon-application/static/js/2.c91d5018.chunk.js",
+    "static/js/2.c91d5018.chunk.js.map": "/http//digepro.github.io/mon-application/static/js/2.c91d5018.chunk.js.map",
+    "static/js/3.5616dee5.chunk.js": "/http//digepro.github.io/mon-application/static/js/3.5616dee5.chunk.js",
+    "static/js/3.5616dee5.chunk.js.map": "/http//digepro.github.io/mon-application/static/js/3.5616dee5.chunk.js.map",
+    "index.html": "/http//digepro.github.io/mon-application/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/http//digepro.github.io/mon-application/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.b2961067.chunk.css.map": "/http//digepro.github.io/mon-application/static/css/main.b2961067.chunk.css.map",
+    "static/js/2.c91d5018.chunk.js.LICENSE.txt": "/http//digepro.github.io/mon-application/static/js/2.c91d5018.chunk.js.LICENSE.txt",
+    "static/media/logo_large.745b9ac5.png": "/http//digepro.github.io/mon-application/static/media/logo_large.745b9ac5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0ba4f8b.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.c91d5018.chunk.js",
+    "static/css/main.b2961067.chunk.css",
+    "static/js/main.2e53549b.chunk.js"
+  ]
+}
